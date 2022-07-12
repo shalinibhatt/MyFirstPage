@@ -307,7 +307,7 @@ position: relative;
 	}
 	}
 #box1 {
-	background-image: url(flo1.jpg);
+	background-image: url(https://raw.githubusercontent.com/shalinibhatt/MyFirstPage/master/photos/flo1.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	color:rgba(255, 255, 255, 1);
@@ -315,7 +315,7 @@ position: relative;
 	border:2px dashed grey;
 }
 #box2 {
-	background-image: url(flo2.jpg);
+	background-image: url(https://raw.githubusercontent.com/shalinibhatt/MyFirstPage/master/photos/flo2.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	color:rgba(255, 165, 0, 1);
@@ -323,7 +323,7 @@ position: relative;
 	border:2px dashed grey;
 }
 #box3 {
-	background-image: url(flo3.jpg);
+	background-image: url(https://raw.githubusercontent.com/shalinibhatt/MyFirstPage/master/photos/flo3.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	color:peachpuff;
